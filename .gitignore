@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 dist/
-*.package-lock.json
+**package-lock.json
