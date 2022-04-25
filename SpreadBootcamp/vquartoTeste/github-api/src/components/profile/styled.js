@@ -43,7 +43,7 @@ export const WrapperUserGeneric = styled.div`
     margin-top: 8px;
     
     h3 {
-        margin: 8px;
+        margin-right: 8px;
         text-align: center;
     }
 
